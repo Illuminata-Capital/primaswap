@@ -1,3 +1,3 @@
 # primaswap
 PrimaSwap AMM Dex - Multichain
-https://primaswap.exchange or jttps://primaswap.info
+https://primaswap.exchange or https://primaswap.info
